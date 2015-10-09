@@ -6,4 +6,6 @@ date:   2015-04-01
 ---
 Our first post... we're at a loss for words!
 
-here's a [fixed link](https://github.com/github).
+Here's a [fixed link](https://github.com/github).
+
+More [broken stuff](www.pignewtons.com).
