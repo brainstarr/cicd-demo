@@ -8,4 +8,4 @@ Our first post... we're at a loss for words!
 
 Here's a [fixed link](https://github.com/github).
 
-More [broken stuff](https://www.pignewtons.com).
+More [broken stuff](https://www.google.com).
