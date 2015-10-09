@@ -1,7 +1,7 @@
 # Site settings
 title: CI and CD with GitHub
 description: A demo blog
-email: brainstarr@github.com
+email: brian.starr@github.com
 github_username:  brainstarr
 baseurl:
 url: https://githubtraining-cicd-demo.herokuapp.com
